@@ -9,3 +9,14 @@ E:\workspace_c#\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Ribbon1.resources
 E:\workspace_c#\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.GenerateResource.Cache
 E:\workspace_c#\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.dll
 E:\workspace_c#\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.pdb
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.pdb
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.dll.manifest
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\bin\Debug\WordAddIn1.vsto
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csprojResolveAssemblyReference.cache
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Properties.Resources.resources
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.Ribbon1.resources
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.csproj.GenerateResource.Cache
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.dll
+E:\workspace_github\WordAddIn1\WordAddIn1\WordAddIn1\obj\Debug\WordAddIn1.pdb

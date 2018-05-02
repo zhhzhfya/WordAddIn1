@@ -26,5 +26,10 @@ namespace WordAddIn1
             Microsoft.Office.Interop.Word.Range rng = Globals.ThisAddIn.Application.Selection.Range;
             rng.Font.Size++;  
         }
+
+        private void button4_Click(object sender, RibbonControlEventArgs e)
+        {
+
+        }
     }
 }
